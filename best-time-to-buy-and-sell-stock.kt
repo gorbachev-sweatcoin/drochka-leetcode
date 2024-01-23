@@ -1,4 +1,5 @@
 class Solution {
+
     fun maxProfit(prices: IntArray): Int {
         var maxProfit = 0
         var priceBought = prices[0]
