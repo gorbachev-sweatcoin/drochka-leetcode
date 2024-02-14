@@ -40,6 +40,7 @@ class Solution {
                 }
             }
         }
+        
         // going right
         if (startIndex + 1 < fruits.size) {
             var leftmostFruit = 0
